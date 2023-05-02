@@ -132,7 +132,7 @@ input:focus {
 }
 
 #icon:hover {
-    filter: blur(1px);
+    filter: blur(2px);
 }
 
 #arrow-right {
